@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+  <loc>https://cmdgenerator.phphe.com/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/cat/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/cat/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/chmod/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/chmod/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/chown/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/chown/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/cp/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/cp/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/df/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/df/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/du/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/du/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/ffmpeg/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/ffmpeg/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/find/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/find/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/free/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/free/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/grep/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/grep/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/ln/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/ln/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/locate/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/locate/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/ls/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/ls/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/more/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/more/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/mv/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/mv/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/rm/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/rm/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/scp/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/scp/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/ssh/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/ssh/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/tar/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/tar/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/wc/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/wc/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/cmd-generators/which/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cmdgenerator.phphe.com/zh/cmd-generators/which/</loc>
+  <lastmod>2021-06-20T23:15:53.176Z</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
